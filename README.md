@@ -5,3 +5,11 @@ System Requirements:
 
 Python 3 with
 BeautifulSoup package installed
+
+Usage 
+
+python Downloader.py <webpage_url>
+
+Example
+
+python Downloader.py http://somesite/webpage
